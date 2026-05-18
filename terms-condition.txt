@@ -1,29 +1,149 @@
-"Terms & Conditions"
+# Terms & Conditions
 
-"Acceptance of Terms",
-"By downloading, accessing, or using ArenaX, you agree to be bound by these Terms & Conditions. If you do not agree, you must not use the app.",
+Last Updated: May 18, 2026
 
-"Purpose of the App",
-"ArenaX is a platform that helps tournament organizers create and manage local tournaments, and helps players discover and participate in them.",
+Welcome to ArenaX.
 
-"User Responsibilities",
-"• Provide accurate and up-to-date information.\n"
-"• You are responsible for the content you create or publish.\n"
-"• Do not use the app for spam, fraud, abuse, or illegal activity.",
+By downloading, accessing, or using ArenaX, you agree to be bound by these Terms & Conditions. If you do not agree with these terms, you must not use the app.
 
-"Tournament Rules",
-"• Tournament creation may be limited per user.\n"
-"• A cooldown period may apply after tournament deletion.\n"
-"• Tournaments that violate these terms may be removed without notice.",
+--------------------------------------------------
 
+# 1. Purpose of ArenaX
 
-"Limitation of Liability",
-"ArenaX is a platform only. We are not responsible for disputes, match outcomes, prize distribution, user conduct, or any direct or indirect damages arising from use of the app.",
+ArenaX is a platform that helps tournament organizers create and manage local tournaments and helps players discover and participate in tournaments and community events.
 
+ArenaX only provides tournament management and discovery tools and does not organize tournaments directly.
 
-"Account Suspension",
-"We may suspend or terminate any account that violates these terms, misuses the platform, or engages in harmful or unlawful activity.",
+--------------------------------------------------
 
+# 2. Eligibility
 
-"Changes to Terms",
-"We may update these Terms & Conditions at any time. Continued use of ArenaX after changes are posted means you accept the updated terms.",
+Users must be at least 13 years old to use ArenaX.
+
+By using the app, you confirm that you meet the minimum age requirement.
+
+--------------------------------------------------
+
+# 3. User Responsibilities
+
+Users agree to:
+
+- Provide accurate and updated information
+- Use the platform lawfully and responsibly
+- Respect other users and organizers
+- Maintain the security of their account
+
+Users must not:
+
+- Use ArenaX for spam, fraud, abuse, or illegal activity
+- Upload harmful, offensive, misleading, or copyrighted content
+- Attempt to disrupt or exploit the platform
+- Impersonate other individuals or organizations
+
+Users are solely responsible for content they create, publish, or share on ArenaX.
+
+--------------------------------------------------
+
+# 4. Tournament Rules & Organizer Responsibility
+
+Tournament organizers are solely responsible for:
+
+- Tournament accuracy
+- Match scheduling
+- Rule enforcement
+- Event operations
+- Prize distribution
+- Communication with participants
+
+ArenaX is not responsible for disputes between players and organizers.
+
+Tournament creation may be limited per user, and cooldown periods may apply after tournament deletion.
+
+ArenaX reserves the right to remove tournaments or content that violate these Terms or community standards.
+
+--------------------------------------------------
+
+# 5. No Gambling or Real-Money Transactions
+
+ArenaX does not process, facilitate, or manage:
+
+- Gambling
+- Betting
+- Wagering
+- Real-money transactions within the app
+
+ArenaX is only a platform for tournament discovery, organization, and participation.
+
+--------------------------------------------------
+
+# 6. Account Suspension & Termination
+
+ArenaX may suspend, restrict, or permanently terminate accounts that:
+
+- Violate these Terms
+- Abuse platform features
+- Engage in harmful or unlawful activity
+- Attempt to exploit the service or other users
+
+We may remove content or tournaments without prior notice if necessary for safety, legal compliance, or platform integrity.
+
+--------------------------------------------------
+
+# 7. Intellectual Property & User Content
+
+Users retain ownership of content they create and upload.
+
+By publishing content on ArenaX, users grant ArenaX a non-exclusive license to display, distribute, and promote such content within the platform.
+
+Users must ensure they have the rights to any content they upload.
+
+--------------------------------------------------
+
+# 8. Platform Availability
+
+ArenaX may occasionally experience interruptions, maintenance, delays, or technical issues.
+
+We do not guarantee uninterrupted or error-free availability of the platform.
+
+--------------------------------------------------
+
+# 9. Limitation of Liability
+
+ArenaX is provided on an “as is” and “as available” basis.
+
+To the maximum extent permitted by law, ArenaX and its operators shall not be responsible for:
+
+- Tournament disputes
+- Match outcomes
+- Prize-related issues
+- User conduct
+- Organizer actions
+- Data loss
+- Service interruptions
+- Indirect or consequential damages arising from use of the app
+
+--------------------------------------------------
+
+# 10. Privacy
+
+Use of ArenaX is also governed by the ArenaX Privacy Policy.
+
+--------------------------------------------------
+
+# 11. Changes to Terms
+
+We may update these Terms & Conditions from time to time.
+
+Updated versions will be posted within the app or official website.
+
+Continued use of ArenaX after updates means you accept the revised Terms.
+
+--------------------------------------------------
+
+# 12. Contact Us
+
+If you have questions regarding these Terms & Conditions, contact us:
+
+ArenaX Support
+Email: support@arenax.app
+Website: https://arenax.app
