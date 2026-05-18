@@ -1,0 +1,29 @@
+"Terms & Conditions"
+
+"Acceptance of Terms",
+"By downloading, accessing, or using ArenaX, you agree to be bound by these Terms & Conditions. If you do not agree, you must not use the app.",
+
+"Purpose of the App",
+"ArenaX is a platform that helps tournament organizers create and manage local tournaments, and helps players discover and participate in them.",
+
+"User Responsibilities",
+"• Provide accurate and up-to-date information.\n"
+"• You are responsible for the content you create or publish.\n"
+"• Do not use the app for spam, fraud, abuse, or illegal activity.",
+
+"Tournament Rules",
+"• Tournament creation may be limited per user.\n"
+"• A cooldown period may apply after tournament deletion.\n"
+"• Tournaments that violate these terms may be removed without notice.",
+
+
+"Limitation of Liability",
+"ArenaX is a platform only. We are not responsible for disputes, match outcomes, prize distribution, user conduct, or any direct or indirect damages arising from use of the app.",
+
+
+"Account Suspension",
+"We may suspend or terminate any account that violates these terms, misuses the platform, or engages in harmful or unlawful activity.",
+
+
+"Changes to Terms",
+"We may update these Terms & Conditions at any time. Continued use of ArenaX after changes are posted means you accept the updated terms.",
