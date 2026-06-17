@@ -314,3 +314,45 @@ footer {
     width: 80%;
   }
 }
+
+/* new store button */
+.btn-store {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  background: #1a1a2e;   /* different tone */
+  color: #fff;
+  font-weight: 600;
+  font-size: 1rem;
+  padding: 0.7rem 1.8rem;
+  border-radius: 60px;
+  text-decoration: none;
+  border: 2px solid #4a4a7a;
+  transition: 0.2s ease;
+  margin-left: 12px;
+  cursor: pointer;
+}
+.btn-store i {
+  color: #a0a0ff;
+  font-size: 1.2rem;
+}
+.btn-store:hover {
+  background: #2a2a4a;
+  transform: translateY(-2px);
+  border-color: #7a7aee;
+}
+
+/* responsive tweak */
+@media (max-width: 600px) {
+  .download-area {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+  }
+  .btn-store {
+    margin-left: 0;
+    width: 100%;
+    justify-content: center;
+  }
+}
