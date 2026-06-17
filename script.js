@@ -41,9 +41,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // The Indus Store button uses a direct link, no JS needed.
-  // But you can optionally add tracking here if needed.
-
   console.log('🔥 ArenaX APK landing | v1.0.3 | ready for mobile, tablet, PC');
   console.log(`APK URL configured: ${APK_DOWNLOAD_URL}`);
 });
