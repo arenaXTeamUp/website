@@ -1,8 +1,8 @@
 // Wait for DOM to be fully loaded
 document.addEventListener('DOMContentLoaded', () => {
   // ---------- IMPORTANT ----------
-  // REPLACE THIS URL with your actual GitHub Release APK link
-  const APK_DOWNLOAD_URL = 'https://github.com/arenaXTeamUp/website/releases/download/2.0.0/arenax.apk';
+  // REPLACE THIS URL with your actual GitHub Release APK link for version 1.0.3
+  const APK_DOWNLOAD_URL = 'https://github.com/arenaXTeamUp/website/releases/download/1.0.3/arenax.apk';
   // ------------------------------
   
   const toast = document.getElementById('toast-msg');
@@ -17,19 +17,16 @@ document.addEventListener('DOMContentLoaded', () => {
     }, 2800);
   }
 
-  // actual download function
   function startDownload() {
-    // you can also use window.location.href = APK_DOWNLOAD_URL;
-    // but to give user feedback:
     showToast('📦 Starting download... check your browser');
-    // small delay to allow toast to show, then trigger download
     setTimeout(() => {
       window.location.href = APK_DOWNLOAD_URL;
     }, 200);
   }
 
-  // get both buttons (main hero button + bottom button)
+  // main hero button
   const mainBtn = document.getElementById('direct-apk-btn');
+  // bottom button
   const bottomBtn = document.getElementById('bottom-apk-btn');
 
   if (mainBtn) {
@@ -44,6 +41,9 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  console.log('🔥 ArenaX APK landing | ready for mobile, tablet, PC');
+  // The Indus Store button uses a direct link, no JS needed.
+  // But you can optionally add tracking here if needed.
+
+  console.log('🔥 ArenaX APK landing | v1.0.3 | ready for mobile, tablet, PC');
   console.log(`APK URL configured: ${APK_DOWNLOAD_URL}`);
 });
