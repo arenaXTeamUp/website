@@ -114,6 +114,10 @@ body {
 /* APK main button */
 .download-area {
   margin: 1.5rem 0 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
 }
 .btn-apk-main {
   display: inline-flex;
@@ -144,6 +148,7 @@ body {
   font-size: 0.75rem;
   margin-top: 12px;
   color: #aaa;
+  width: 100%;
 }
 .info-text i {
   color: var(--yellow);
@@ -155,6 +160,43 @@ body {
 }
 .qr-hint i {
   color: var(--yellow);
+}
+
+/* Indus Store Button */
+.btn-store {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  background: #1a1a2e;
+  color: #fff;
+  font-weight: 500;
+  font-size: 0.95rem;
+  padding: 0.6rem 1.8rem;
+  border-radius: 60px;
+  text-decoration: none;
+  border: 2px solid #3a3a5a;
+  transition: 0.2s ease;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.btn-store strong {
+  font-weight: 700;
+  color: #FF6B35;
+}
+.store-icon {
+  border-radius: 6px;
+  vertical-align: middle;
+  background: #ffffff;
+  padding: 3px;
+  object-fit: contain;
+  height: 22px;
+  width: auto;
+}
+.btn-store:hover {
+  background: #2a2a4a;
+  transform: translateY(-2px);
+  border-color: #FF6B35;
+  box-shadow: 0 8px 18px rgba(255, 107, 53, 0.15);
 }
 
 /* phone mock */
@@ -245,6 +287,22 @@ footer {
   font-size: 0.7rem;
   margin-top: 6px;
 }
+.footer-legal-links {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.8rem;
+}
+.footer-legal-links a {
+  color: #aaa;
+  text-decoration: none;
+  border-bottom: 1px dotted #444;
+}
+.footer-legal-links a:hover {
+  color: var(--yellow);
+  border-bottom-color: var(--yellow);
+}
 
 /* toast message (JS) */
 .toast-message {
@@ -286,7 +344,7 @@ footer {
     justify-content: center;
   }
   .download-area {
-    text-align: center;
+    justify-content: center;
   }
   .phone-card {
     margin-bottom: 1rem;
@@ -296,7 +354,7 @@ footer {
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   .container {
     padding: 1.5rem 1rem;
   }
@@ -313,39 +371,7 @@ footer {
     text-align: center;
     width: 80%;
   }
-}
-
-/* new store button */
-.btn-store {
-  display: inline-flex;
-  align-items: center;
-  gap: 10px;
-  background: #1a1a2e;   /* different tone */
-  color: #fff;
-  font-weight: 600;
-  font-size: 1rem;
-  padding: 0.7rem 1.8rem;
-  border-radius: 60px;
-  text-decoration: none;
-  border: 2px solid #4a4a7a;
-  transition: 0.2s ease;
-  margin-left: 12px;
-  cursor: pointer;
-}
-.btn-store i {
-  color: #a0a0ff;
-  font-size: 1.2rem;
-}
-.btn-store:hover {
-  background: #2a2a4a;
-  transform: translateY(-2px);
-  border-color: #7a7aee;
-}
-
-/* responsive tweak */
-@media (max-width: 600px) {
   .download-area {
-    display: flex;
     flex-direction: column;
     align-items: center;
     gap: 12px;
@@ -354,5 +380,6 @@ footer {
     margin-left: 0;
     width: 100%;
     justify-content: center;
+    white-space: normal;
   }
 }
