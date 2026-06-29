@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.arenax.app",
+      "sha256_cert_fingerprints": [
+        "10:D4:B3:4F:E1:22:6D:EA:D5:B1:19:BE:76:CA:A4:90:88:AB:51:AF:2F:EB:E3:92:C3:72:BB:31:EF:68:A7:F3"
+      ]
+    }
+  }
+]
