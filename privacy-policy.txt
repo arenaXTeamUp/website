@@ -1,0 +1,129 @@
+Last Updated: July 11, 2026
+
+Welcome to ArenaX.
+
+This Privacy Policy explains how ArenaX ("we," "our," or "us") collects, uses, stores, and protects your information when you use the ArenaX mobile application and related services. By downloading, accessing, or using ArenaX, you agree to this Privacy Policy.
+
+--------------------------------------------------
+
+1. Information We Collect
+
+a) Account & Profile Information
+When you create a profile, we collect:
+- Name or display name (initially fetched from Google Sign-In; you can change it anytime)
+- Email address (from Google Sign-In)
+- Profile photo (from Google Sign-In)
+- Country
+- Phone number (optional)
+- Preferred sports categories (e.g., cricket, football)
+- Region details derived from your device location with your consent: state, district, pincode, and a nearby landmark.
+
+b) Google Sign-In Information
+When you sign in using Google authentication, we collect:
+- Google account name
+- Email address
+- Profile photo
+Your email address remains private and is not publicly visible. Your display name and profile photo may be shown in tournaments, teams, and leaderboards.
+
+c) Tournament & Community Information
+We collect and process:
+- Tournament participation history
+- Team details and membership
+- Match results, rankings, and leaderboard points
+- Tournament details you create (venue, schedule, fees, prizes, etc.)
+- Community content and reports
+Certain tournament and organizer information is publicly visible to other users inside the App.
+
+d) Device & Technical Information
+We automatically collect:
+- Device model and operating system version
+- App version
+- IP address
+- Device identifiers
+- Crash logs and diagnostics data
+- Basic usage analytics
+
+e) Location Information
+ArenaX requires location access to provide its core service. We collect both approximate (network-based) and precise (GPS-based) location data. This is essential to:
+- Show you nearby tournaments in real time
+- Apply radius-based filters
+- Allow organizers to tag accurate venue locations
+- Auto-fetch your region details during profile setup (state, district, pincode, landmark)
+
+Location is only accessed while the App is in use (foreground). No background location tracking is performed. You may deny location permission, but the App's core discovery features will not function.
+
+f) Camera Permission
+ArenaX may request camera access solely for scanning QR codes to quickly join tournaments. We do not capture, store, or transmit any photos or videos. The camera feed is used only for real-time code recognition and never saved. This permission is optional.
+
+g) Notifications
+We may request permission to send push notifications for tournament updates, reminders, and leaderboard changes. This is optional and can be disabled anytime from your device settings or in-app permissions.
+
+2. How We Use Information
+We use collected information to:
+- Create and manage your account and profile
+- Enable tournament discovery, creation, and participation
+- Manage teams, rankings, and leaderboards
+- Provide location-based tournament recommendations
+- Support QR code scanning for event participation
+- Improve App performance and user experience
+- Detect and prevent fraud, abuse, cheating, or unlawful activity
+- Communicate important updates, notifications, and support messages
+- Maintain platform security
+
+3. Third-Party Services
+ArenaX uses trusted third-party services, including:
+- Google Sign-In
+- Google Play Services
+- Google Maps
+- Supabase (backend and database)
+- Analytics and cloud infrastructure providers
+
+These services may collect and process information according to their own privacy policies. We encourage you to review their policies:
+- Google Privacy Policy: https://policies.google.com/privacy
+- Supabase Privacy Policy: https://supabase.com/privacy
+
+4. Data Sharing
+We do not sell your personal information. We may share limited information:
+- With tournament organizers for event operations (e.g., team rosters)
+- With service providers that help operate ArenaX (under strict confidentiality)
+- When required by law, legal process, or government request
+- To protect the safety, rights, and security of users or the platform
+
+Public information such as your display name, profile photo, and tournament details may be visible to other users.
+
+5. Data Storage & Retention
+ArenaX uses Supabase and related cloud infrastructure to securely store your data. Non-essential user data may be automatically deleted or refreshed after approximately 30 days unless longer retention is required for security, fraud prevention, legal obligations, or operational needs.
+
+6. Data Security
+We implement reasonable technical and organizational measures to protect your information. However, no internet-based platform can guarantee absolute security. You are responsible for keeping your account credentials safe.
+
+7. User Content
+You are responsible for all content you upload or share through ArenaX, including tournament details, team names, images, and profile information. Do not post unlawful, abusive, misleading, offensive, or copyrighted content. We reserve the right to remove content that violates our policies or applicable laws.
+
+8. Children’s Privacy
+ArenaX is not intended for children under 13. We do not knowingly collect personal information from children under 13. If we become aware of such data, we will take steps to delete it.
+
+9. User Rights
+You may:
+- Edit or update your account and profile information
+- Change your display name at any time
+- Disable location access from device settings (note: core features will be limited)
+- Request account deletion and removal of your personal data
+- Contact us regarding privacy concerns
+
+You can request permanent account deletion from within the App settings or by contacting support.
+
+10. No Gambling or Real-Money Transactions
+ArenaX does not process, facilitate, or manage any gambling, betting, wagering, or real-money transactions. Entry fee and prize information shown on the App is provided by organizers for informational purposes only. We are not involved in any financial exchanges between users.
+
+11. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Updated versions will be posted within the App or on our website. Your continued use of ArenaX after changes signifies acceptance of the revised policy.
+
+12. Contact Us
+If you have questions about this Privacy Policy or wish to exercise your data rights, contact us at:
+ArenaX Support
+Email: support@arenax.app
+Website: https://arenax.app
+
+13. Consent
+By using ArenaX, you consent to this Privacy Policy and agree to its terms.
