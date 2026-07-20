@@ -1,0 +1,22 @@
+# Delete Your ArenaX Account
+
+If you'd like to delete your ArenaX account and associated data, 
+follow these steps:
+
+1. Email us at support.arenax@gmail.com with the subject line "Account 
+   Deletion Request" from the email address linked to your account.
+2. Include your ArenaX username or the Google account used to sign in.
+3. We will process your request within 7 business days and confirm 
+   via email once completed.
+
+**What gets deleted:**
+- Your profile information (name, email, profile picture)
+- Tournament history and match data associated with your account
+- Any messages or content you've posted
+
+**What may be retained:**
+- Transaction records (if applicable), retained for 6 months 
+  for legal and accounting purposes
+- Anonymized usage data that cannot be linked back to you
+
+For questions, contact us at support.arenax@gmail.com.
